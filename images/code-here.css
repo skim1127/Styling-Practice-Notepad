@@ -1,0 +1,87 @@
+#classic {
+    padding: 16px;
+    text-align: justify;
+    font-weight: bold;
+}
+
+#modern {
+    padding: 1em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background: #ffdb00;
+}
+
+#impact {
+    padding: 1em;
+    text-align: center;
+    border-style: double;
+    border: 18px double black;
+    background: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#elise {
+    padding: 1em;
+    text-align: center;
+    border: 8px groove #fff9ee;
+    background: #fff9ee;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+#one, #two  {
+    padding: 1em;
+    display:inline-block;
+    margin-left: 2em;
+    margin-right: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background: #64ffcf;
+    border: 8px groove #00c7c9;
+}
+
+#gaudi {
+    padding: 1em;
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+    background: #ff9673;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 3px 3px 3px #808280;
+
+}
+
+label {
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: large;
+    text-align: center;
+    display: block;
+    color: #52107e;
+}
+
+.input-container {
+    margin: auto;
+    display: block;
+    width: 70%;
+    height: 2em;
+    border: 2px solid #c4c59e;
+}
+
+#submit-container {
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: larger;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+    height: 3em;
+    background: #6a465b;
+    color: white;
+    
+}
